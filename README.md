@@ -1,7 +1,7 @@
 # Init-SelfInstall
 
 ## How to use  
-This script detect OS, install ansible and launch installation of my laptop
+This script detects operating system, installs ansible and launches the installation on my laptop
 ``` 
 wget -O - install.overcomputing.net/init | bash 
 ```
